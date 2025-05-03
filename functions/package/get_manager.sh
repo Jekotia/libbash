@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> CHECK WHICH PACKAGE MANAGER IS PRESENT
 #-> TAKES NO ARGS

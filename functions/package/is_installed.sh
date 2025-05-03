@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> SKELETON TO CHECK IF A PACKAGE IS INSTALLED
 #-> TAKES PACKAGE NAME AS ARG

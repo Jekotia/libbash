@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 path="$(git rev-parse --show-toplevel)"
 # VARIABLE CONTAINING STARTING PATH

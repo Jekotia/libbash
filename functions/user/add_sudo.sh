@@ -1,4 +1,5 @@
-#! /bin/bash
+#! /usr/bin/env bash
+
 #-> Installs sudo if needed and creates a user in the sudo group.
 #-> $1 - Required - username
 #-> $2 - Required - password

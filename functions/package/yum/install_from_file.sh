@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> INSTALLS RPM FROM FILE
 #-> TAKES FILE PATH AS ARG

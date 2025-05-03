@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 # As of writing, there are no single-character TLD's. However, they would be
 # technically valid. So as to avoid the effectiveness of this script relying on

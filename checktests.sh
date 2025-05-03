@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 ### printf "%s| %-60s\n" "SC" "File"
 #failures=0

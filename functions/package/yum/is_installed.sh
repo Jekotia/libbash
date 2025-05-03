@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> CHECKS IF THE NAMED PACKAGE IS INSTALLED
 #-> TAKES PACKAGE NAME (STRING) AS INPUT

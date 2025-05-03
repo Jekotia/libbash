@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 ##################################################
 ### REPLACE ALL INSTANCES OF THE WORD SKELETON ###

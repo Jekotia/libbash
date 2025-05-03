@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> DISABLES ROOT ACCESS VIA SSH
 #-> NO ARGS

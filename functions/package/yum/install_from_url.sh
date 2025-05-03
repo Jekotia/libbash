@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 #-> INSTALLS RPM FROM URL
 #-> TAKES URL AS ARG
